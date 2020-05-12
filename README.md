@@ -1,7 +1,5 @@
 # pycolordetector
 
-# Example Project
-
 ## Description
 
 This is an example project that is used as practice for learning [packaging][pcking].
