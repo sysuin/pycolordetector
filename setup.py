@@ -23,7 +23,6 @@ setup(name='pycolordetector',
       ],
       python_requires='>=3.6',
       project_urls={
-        'Funding': 'https://donate.pypi.org',
         'Documentation': r'https://pycolordetector.readthedocs.io/en/latest/'
       },
       )
