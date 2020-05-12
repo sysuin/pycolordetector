@@ -14,7 +14,7 @@ Example Project officially supports Python 3.6–3.8.
 * Feature 3
 
 
-## Where to get it
+## Installation
 
 The source code is currently hosted on GitHub at:
 https://github.com/sunnysinghnitb/pycolordetector
