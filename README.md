@@ -17,19 +17,18 @@ Example Project officially supports Python 3.6–3.8.
 ## Where to get it
 
 The source code is currently hosted on GitHub at:
-https://github.com/Hakonmh/example-project
+https://github.com/sunnysinghnitb/pycolordetector
 
 To install example Python project, simply use pip:
 ```sh
-pip install example
+pip install pycolordetector
 ```
 
 
 ## Documentation
 
 The official documentation is hosted on:
-https://an-example-project.readthedocs.io/en/latest/index.html
-
+https://pycolordetector.readthedocs.io/en/latest/
 
 ## License
 
@@ -41,9 +40,9 @@ https://an-example-project.readthedocs.io/en/latest/index.html
 All contributions, bug reports, bug fixes, documentation improvements, enhancements and ideas are welcome.
 
 Issues are posted on:
-https://github.com/Hakonmh/example-project/issues
+https://github.com/sunnysinghnitb/pycolordetector/issues
 
 
 [pcking]: https://packaging.python.org
-[mit]: https://github.com/Hakonmh/example-project/blob/master/LICENSE.txt
+[mit]: https://github.com/sunnysinghnitb/pycolordetector/blob/master/LICENSE
 "# example-project"
