@@ -21,6 +21,13 @@ To install pycolordetector, simply use pip:
 pip install pycolordetector
 ```
 
+## Example Usage
+
+The following illustrates how to use the *colo* function of pycolordetector:
+```sh
+from pycolordetector.pycolordetector import colo
+colo("Path_of_your_image")
+```
 
 ## Documentation
 
