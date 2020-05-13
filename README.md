@@ -29,7 +29,7 @@ https://pycolordetector.readthedocs.io/en/latest/
 
 ## License
 
-[MIT][mit]
+pycolordetector is published under the [MIT License][mit]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -45,7 +45,7 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 
 **pycolordetector** appreciates help from a wide range of different backgrounds. Work such as high level documentation or code improvements are valuable, and small improvements or fixes are always appreciated. If you are considering larger contributions outside the traditional coding work, please contact us at sunnysinghnitb@gmail.com.
 
-Issues are posted on:
+Issues are posted on:<br>
 https://github.com/sunnysinghnitb/pycolordetector/issues
 
 
