@@ -9,9 +9,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/nschloe/pipdate.svg?style=flat-square&logo=github&label=Stars&logoColor=white)](https://github.com/nschloe/pipdate)
 [![PyPi downloads](https://img.shields.io/pypi/dm/pipdate.svg?style=flat-square)](https://pypistats.org/packages/pipdate)
 
-## Description
-
-This is an example project that is used as practice for learning [packaging][pcking].
+pycolordetector is a Python package for detecting colors in images. It provides fast and easy way to detect color of a pixel. The applications build through this package will automatically give the name of the color just by double-clicking on them. It has been designed to make working with image data both simple and intuitive. It aims to be the fundamental high-level building block for doing practical and real-world analysis on images. 
 
 
 ## Features
