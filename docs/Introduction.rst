@@ -11,9 +11,9 @@ Installation
 | https://github.com/Hakonmh/example-project
 
 To install pycolordetector, simply use pip:
-``
+```
 pip install pycolordetector
-``
+```
 
 LICENSE
 -------
