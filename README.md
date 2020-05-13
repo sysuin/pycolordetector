@@ -16,7 +16,7 @@ pycolordetector is a Python package for detecting colors in images. It provides 
 The source code is currently hosted on GitHub at:
 https://github.com/sunnysinghnitb/pycolordetector
 
-To install example Python project, simply use pip:
+To install pycolordetector, simply use pip:
 ```sh
 pip install pycolordetector
 ```
@@ -36,7 +36,7 @@ of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
-furnished to do so
+furnished to do so.
 
 
 ## Contributions
