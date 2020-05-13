@@ -13,7 +13,7 @@
 
 ## Installation
 
-The source code is currently hosted on GitHub at:
+The source code is currently hosted on GitHub at:<br>
 https://github.com/sunnysinghnitb/pycolordetector
 
 To install pycolordetector, simply use pip:
@@ -24,7 +24,7 @@ pip install pycolordetector
 
 ## Documentation
 
-The official documentation is hosted on:
+The official documentation is hosted on:<br>
 https://pycolordetector.readthedocs.io/en/latest/
 
 ## License
