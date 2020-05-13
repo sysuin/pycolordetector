@@ -14,7 +14,7 @@ pip
 
 To install Example Project, simply use pip::
 
-    pip install example
+    pip install pycolordetector
 
 
 
