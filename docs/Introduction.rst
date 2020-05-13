@@ -10,10 +10,10 @@ Installation
 | The source code is currently hosted on GitHub at:
 | https://github.com/Hakonmh/example-project
 
-To install pycolordetector, simply use pip:
-```
-pip install pycolordetector
-```
+To install pycolordetector, simply use pip::
+
+  pip install pycolordetector
+
 
 LICENSE
 -------
