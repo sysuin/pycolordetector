@@ -41,7 +41,7 @@ furnished to do so
 
 ## Contributions
 
-All contributions, bug reports, bug fixes, documentation improvements, enhancements and ideas are welcome.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements and ideas are welcome. pycolordetector appreciates help from a wide range of different backgrounds. Work such as high level documentation or code improvements are valuable, and small improvements or fixes are always appreciated. If you are considering larger contributions outside the traditional coding work, please contact us at sunnysinghnitb@gmail.com.
 
 Issues are posted on:
 https://github.com/sunnysinghnitb/pycolordetector/issues
