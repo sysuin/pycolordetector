@@ -1,26 +1,22 @@
 Quickstart
 ==========
 
-This is a short introduction to Example Project, geared mainly for new users.
+This is a short introduction to pycolordetector, geared mainly for new users.
 
-Importing Example Project:
+Importing pycolordetector:
 
 .. code-block:: python
 
-    from example import example_code as ex
+    from pycolordetector.pycolordetector import colo
 
-Random Number Generator
+Providing Path of Image
 -----------------------
-To generate a integer between `start` and `stop` simply use:
+Give path of your image as an argument to the *colo* function:
 
 .. code-block:: python
 
-    output = ex.random_number_generator(0, 10)
+    colo("Path_of_your_image")
 
-Random Sequence Generator
+Get the Colors of the Image
 -------------------------
-To generate a list of length `length` consisting of integers between `start` and `stop` use:
-
-.. code-block:: python
-
-    output = ex.random_sequence_generator(5, 0, 10)
+Just double-click anywhere on the output image to get the color name and respective R, G, B values. To end the execution of the program, press the "Esc" key.
