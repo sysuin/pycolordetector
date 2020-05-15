@@ -36,7 +36,7 @@ https://pycolordetector.readthedocs.io/en/latest/
 
 ## License
 
-pycolordetector is published under the [MIT License][mit].
+**pycolordetector** is published under the [MIT License][mit].
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
