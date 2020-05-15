@@ -17,7 +17,7 @@ To install pycolordetector, simply use pip::
 
 License
 -------
-pycolordetector is published under the `MIT. <https://github.com/Hakonmh/example-project/blob/master/LICENSE.txt>`_
+**pycolordetector** is published under the `MIT License <https://github.com/Hakonmh/example-project/blob/master/LICENSE.txt>`_.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
