@@ -15,9 +15,9 @@ To install pycolordetector, simply use pip::
   pip install pycolordetector
 
 
-LICENSE
+License
 -------
-`MIT <https://github.com/Hakonmh/example-project/blob/master/LICENSE.txt>`_
+pycolordetector is published under the `MIT. <https://github.com/Hakonmh/example-project/blob/master/LICENSE.txt>`_
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -30,7 +30,8 @@ Contributions
 -------------
 All contributions, bug reports, bug fixes, documentation improvements, enhancements and ideas are welcome. 
 
-**pycolordetector** appreciates help from a wide range of different backgrounds. Work such as high level documentation or code improvements are valuable, and small improvements or fixes are always appreciated. If you are considering larger contributions outside the traditional coding work, please contact us at sunnysinghnitb@gmail.com.
-
 | Issues are posted on:
 | https://github.com/Hakonmh/example-project/issues
+
+**pycolordetector** appreciates help from a wide range of different backgrounds. Work such as high level documentation or code improvements are valuable, and small improvements or fixes are always appreciated. If you are considering larger contributions outside the traditional coding work, please contact us at sunnysinghnitb@gmail.com.
+
