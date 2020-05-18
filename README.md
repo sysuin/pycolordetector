@@ -1,8 +1,6 @@
 # pycolordetector
 
 [![CircleCI](https://img.shields.io/circleci/project/github/nschloe/pipdate/master.svg?style=flat-square)](https://circleci.com/gh/nschloe/pipdate/tree/master)
-[![codecov](https://img.shields.io/codecov/c/github/nschloe/pipdate.svg?style=flat-square)](https://codecov.io/gh/nschloe/pipdate)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg?style=flat-square)](https://github.com/psf/black)
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/pipdate.svg?style=flat-square)](https://pypi.org/pypi/pycolordetector/)
 [![PyPi Version](https://img.shields.io/pypi/v/pipdate.svg?style=flat-square)](https://pypi.python.org/pypi/pycolordetector)
 [![PyPi downloads](https://img.shields.io/pypi/dm/pipdate.svg?style=flat-square)](https://pypistats.org/packages/pycolordetector)
