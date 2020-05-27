@@ -1,6 +1,6 @@
 # pycolordetector
 
-[![CircleCI](https://readthedocs.org/projects/microurl/badge/?version=latest)](http://microurl.readthedocs.io/en/latest/?badge=latest)
+[![CircleCI](https://readthedocs.org/projects/microurl/badge/?version=latest)](http://pycolordetector.readthedocs.io/en/latest/?badge=latest)
 [![CircleCI](https://img.shields.io/circleci/project/github/nschloe/pipdate/master.svg?style=flat-square)](https://circleci.com/gh/nschloe/pipdate/tree/master)
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/pipdate.svg?style=flat-square)](https://pypi.org/pypi/pycolordetector/)
 [![PyPi Version](https://img.shields.io/pypi/v/pipdate.svg?style=flat-square)](https://pypi.python.org/pypi/pycolordetector)
